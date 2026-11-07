@@ -1,0 +1,457 @@
+[
+ {
+  "text": "Chương hai: Equities investment, đầu tư cổ phiếu. Đây là chương nặng nhất, có nhiều bài tính. Hãy tập trung.",
+  "start": 0.0,
+  "end": 6.24
+ },
+ {
+  "text": "Chương hai có bốn phần: một, Economy analysis, phân tích kinh tế. Hai, Industry analysis, phân tích ngành. Ba, Company analysis, phân tích công ty. Bốn, Stock valuation, định giá cổ phiếu.",
+  "start": 6.49,
+  "end": 19.53
+ },
+ {
+  "text": "Bài giảng chỉ tập trung vào common stock, cổ phiếu phổ thông.",
+  "start": 19.78,
+  "end": 23.14
+ },
+ {
+  "text": "Triết lý của Buffett: mua một công ty tuyệt vời với giá hợp lý, tốt hơn nhiều so với mua một công ty tốt với giá rất cao. Ba ý: mua công ty tốt, giá rẻ hoặc hợp lý, và nắm giữ đủ lâu.",
+  "start": 23.39,
+  "end": 34.91
+ },
+ {
+  "text": "Có hai mô hình phân tích. Hãy phân biệt cho thật rõ.",
+  "start": 35.16,
+  "end": 38.12
+ },
+ {
+  "text": "Top-down model, từ trên xuống. Đi từ Economy, rồi Industry, rồi Firm. Phù hợp với tổ chức. Nếu kinh tế và ngành không ổn định thì không đầu tư.",
+  "start": 38.37,
+  "end": 47.41
+ },
+ {
+  "text": "Bottom-up model, từ dưới lên. Ưu tiên tìm cổ phiếu bị định giá thấp, undervalued. Phù hợp với nhà đầu tư cá nhân.",
+  "start": 47.66,
+  "end": 54.3
+ },
+ {
+  "text": "Mẹo nhớ: Top-down là Tổ chức. Bottom-up là cá nhân, Bắt đáy tìm hàng rẻ. Chữ T với chữ T, chữ B với chữ B.",
+  "start": 54.55,
+  "end": 62.87
+ },
+ {
+  "text": "Mục đích của phân tích kinh tế: quan sát thuận lợi và khó khăn của môi trường đầu tư mỗi nước; tìm ngành hưởng lợi nhiều nhất; giúp phân bổ vốn giữa các quốc gia; và xem ảnh hưởng của các yếu tố vĩ mô lên thị trường chứng khoán.",
+  "start": 63.12,
+  "end": 75.04
+ },
+ {
+  "text": "Investment environment, môi trường đầu tư, là tổng hợp các yếu tố kinh tế, xã hội, văn hóa, pháp lý, tài chính và cơ sở hạ tầng.",
+  "start": 75.29,
+  "end": 83.05
+ },
+ {
+  "text": "Các chỉ số vĩ mô cần phân tích: GDP, inflation lạm phát, unemployment thất nghiệp, exchange rate tỷ giá, interest rate lãi suất, public debt nợ công, bad debt nợ xấu, ICOR, đầu tư gồm FDI, FII, ODA, xuất nhập khẩu, cán cân thanh toán BOP. Ngoài ra là chính sách monetary policy tiền tệ, fiscal policy tài khóa, lối sống, và xu hướng công nghệ.",
+  "start": 83.3,
+  "end": 107.89
+ },
+ {
+  "text": "Phần hai, phân tích ngành, Industry analysis. Hai mục tiêu: chọn ngành phù hợp để đầu tư, và hiểu tình hình ngành để dự báo tăng trưởng.",
+  "start": 108.14,
+  "end": 116.06
+ },
+ {
+  "text": "Bước một, chọn ngành theo hai tiêu chí. Thứ nhất, tốc độ tăng trưởng trung bình của ngành so với tốc độ tăng trưởng GDP. Chọn ngành tăng nhanh hơn GDP, dùng số liệu ít nhất năm năm. Thứ hai, ngành phải phù hợp với giai đoạn hiện tại của nền kinh tế.",
+  "start": 116.31,
+  "end": 130.68
+ },
+ {
+  "text": "Bước hai, dùng mô hình Michael Porter để phân tích tình hình ngành.",
+  "start": 130.93,
+  "end": 134.37
+ },
+ {
+  "text": "Bây giờ là Business cycles, chu kỳ kinh doanh. Slide chia bốn giai đoạn.",
+  "start": 134.62,
+  "end": 139.1
+ },
+ {
+  "text": "Giai đoạn một: Expansion, mở rộng. Lãi suất thấp, dễ vay vốn, doanh nghiệp tăng sản lượng, lợi nhuận và giá cổ phiếu tăng, GDP tăng.",
+  "start": 139.35,
+  "end": 147.51
+ },
+ {
+  "text": "Giai đoạn hai: Peak, đỉnh. Tốc độ mở rộng đạt tối đa. Chi phí sản xuất tăng, doanh nghiệp đẩy giá lên khách hàng. Sau đó quay đầu đi xuống.",
+  "start": 147.76,
+  "end": 155.44
+ },
+ {
+  "text": "Giai đoạn ba: Recession, suy thoái. Chi tiêu và lợi nhuận giảm. Nhà đầu tư chuyển sang tài sản an toàn như trái phiếu chính phủ và tiền mặt. Thị trường chứng khoán là bear market, thị trường gấu. Ngân hàng trung ương thường giảm lãi suất để kích thích.",
+  "start": 155.69,
+  "end": 169.21
+ },
+ {
+  "text": "Giai đoạn bốn: slide ghi Depression, nhưng nội dung là điểm đáy và bắt đầu phục hồi, recovery. Doanh nghiệp tuyển dụng lại, nhà đầu tư thấy cổ phiếu có lợi nhuận kỳ vọng cao hơn trái phiếu nên giá cổ phiếu tăng.",
+  "start": 169.46,
+  "end": 181.3
+ },
+ {
+  "text": "Mẹo nhớ: E, P, R, D. Mở rộng, Đỉnh, Suy thoái, Đáy phục hồi. Lãi suất thấp ở mở rộng, giảm lãi suất ở suy thoái.",
+  "start": 181.55,
+  "end": 188.59
+ },
+ {
+  "text": "Các hệ thống phân loại ngành: ISIC của Liên Hợp Quốc, NAICS của Mỹ, UK SIC của Anh, ICB của Dow Jones và FTSE, GICS của Morgan Stanley và Standard and Poor's, và VSIC hai nghìn không trăm lẻ bảy của Việt Nam. Ngành được xác định theo hoạt động chính, là hoạt động mang lại doanh thu chủ yếu và lâu dài.",
+  "start": 188.84,
+  "end": 209.78
+ },
+ {
+  "text": "Hai mô hình phân tích ngành: SWOT và Michael Porter.",
+  "start": 210.03,
+  "end": 213.79
+ },
+ {
+  "text": "SWOT: Strengths điểm mạnh, Weaknesses điểm yếu, Opportunities cơ hội, Threats thách thức.",
+  "start": 214.04,
+  "end": 220.6
+ },
+ {
+  "text": "Michael Porter, sinh năm một nghìn chín trăm bốn mươi bảy, giáo sư Harvard Business School. Mô hình Five Forces, năm lực lượng cạnh tranh.",
+  "start": 220.85,
+  "end": 228.21
+ },
+ {
+  "text": "Lực một: Threat of new entrants, mối đe dọa từ người mới gia nhập. Hỏi về rào cản gia nhập.",
+  "start": 228.46,
+  "end": 234.14
+ },
+ {
+  "text": "Lực hai: Bargaining power of buyers, quyền thương lượng của người mua.",
+  "start": 234.39,
+  "end": 238.07
+ },
+ {
+  "text": "Lực ba: Bargaining power of suppliers, quyền thương lượng của nhà cung cấp.",
+  "start": 238.32,
+  "end": 242.72
+ },
+ {
+  "text": "Lực bốn: Threat of substitute products, mối đe dọa từ sản phẩm thay thế.",
+  "start": 242.97,
+  "end": 247.69
+ },
+ {
+  "text": "Lực năm: Rivalry among existing competitors, cạnh tranh giữa các đối thủ hiện tại.",
+  "start": 247.94,
+  "end": 253.3
+ },
+ {
+  "text": "Mẹo nhớ: Mới, Mua, Cung, Thay, Đối thủ. Năm lực, năm chữ. Đối thủ hiện tại nằm ở trung tâm, bốn lực còn lại bao quanh.",
+  "start": 253.55,
+  "end": 261.07
+ },
+ {
+  "text": "Người mua mạnh khi: tập trung hoặc mua số lượng lớn, sản phẩm chiếm tỷ trọng lớn trong chi phí của họ, chi phí chuyển đổi thấp, hiểu biết nhiều về sản phẩm.",
+  "start": 261.32,
+  "end": 269.4
+ },
+ {
+  "text": "Nhà cung cấp mạnh khi: ít nhà cung cấp và tập trung cao, sản phẩm là đầu vào quan trọng, chi phí chuyển đổi cao, có khả năng hội nhập về phía trước.",
+  "start": 269.65,
+  "end": 278.29
+ },
+ {
+  "text": "Cạnh tranh trong ngành gay gắt khi: nhiều doanh nghiệp quy mô tương đương, ngành tăng trưởng chậm hoặc sắp bão hòa, chi phí cố định hoặc chi phí kho cao, rào cản rút lui cao.",
+  "start": 278.54,
+  "end": 287.74
+ },
+ {
+  "text": "Phần ba, Company analysis, phân tích công ty. Hai phần: Non-financial analysis, phi tài chính, và Financial analysis, tài chính.",
+  "start": 287.99,
+  "end": 297.03
+ },
+ {
+  "text": "Công ty xuất sắc có hai yếu tố: sản phẩm hoặc dịch vụ xuất sắc, và hệ thống kinh doanh xuất sắc.",
+  "start": 297.28,
+  "end": 302.96
+ },
+ {
+  "text": "Năm lợi thế cạnh tranh, five competitive advantages. Một, Trademark, thương hiệu. Hai, License hoặc patent, giấy phép và bằng sáng chế. Ba, Fee, sức mạnh thống trị thị trường nên thu phí được. Bốn, Convert fee, chi phí chuyển đổi cao. Năm, Price, giá thấp đến mức đối thủ không cạnh tranh nổi.",
+  "start": 303.21,
+  "end": 321.37
+ },
+ {
+  "text": "Mẹo nhớ năm lợi thế: Thương hiệu, Bằng sáng chế, Thống trị, Chuyển đổi, Giá. Viết tắt T B T C G.",
+  "start": 321.62,
+  "end": 327.54
+ },
+ {
+  "text": "Hệ thống kinh doanh xuất sắc thể hiện qua: marketing, nghiên cứu và phát triển sản phẩm mới, minh bạch kế toán và công bố thông tin, thay đổi chiến lược thích nghi, văn hóa công ty, hoàn thành mục tiêu của hội đồng quản trị, và sự trung thành của quản lý cấp cao.",
+  "start": 327.79,
+  "end": 342.08
+ },
+ {
+  "text": "Agency problem, vấn đề đại diện. Công ty trả cổ tức càng thấp, tỷ lệ nợ càng thấp, và tỷ lệ sở hữu của ban điều hành càng thấp thì vấn đề đại diện càng nghiêm trọng. Hãy tránh những công ty này. Ví dụ ở slide là Coteccons.",
+  "start": 342.33,
+  "end": 355.77
+ },
+ {
+  "text": "Các tỷ số tài chính quan trọng.",
+  "start": 356.02,
+  "end": 357.86
+ },
+ {
+  "text": "Solvency, khả năng thanh toán. Working capital bằng tài sản ngắn hạn trừ nợ ngắn hạn. Current ratio bằng tài sản ngắn hạn chia nợ ngắn hạn. Quick ratio bằng tài sản ngắn hạn trừ hàng tồn kho, rồi chia nợ ngắn hạn.",
+  "start": 358.11,
+  "end": 370.27
+ },
+ {
+  "text": "Leverage, đòn bẩy. Debt to equity bằng nợ chia vốn chủ. Debt ratio bằng nợ chia tổng tài sản; lớn hơn một nghĩa là giá trị ròng âm, phá sản về mặt kỹ thuật. Interest coverage bằng EBIT chia chi phí lãi vay; càng cao càng an toàn.",
+  "start": 370.52,
+  "end": 385.08
+ },
+ {
+  "text": "Profitability, khả năng sinh lời. Gross profitability bằng lợi nhuận gộp chia doanh thu thuần. Net profitability bằng lợi nhuận ròng chia doanh thu thuần. ROA bằng lợi nhuận ròng chia tổng tài sản. ROE bằng lợi nhuận ròng chia vốn chủ sở hữu. EPS bằng lợi nhuận ròng chia số cổ phiếu đang lưu hành. P/E bằng giá đóng cửa chia EPS cơ bản. Retention ratio bằng lợi nhuận ròng trừ cổ tức, rồi chia lợi nhuận ròng.",
+  "start": 385.33,
+  "end": 411.43
+ },
+ {
+  "text": "Efficiency, hiệu quả. Accounts receivable turnover bằng doanh thu tín dụng ròng chia khoản phải thu bình quân. Inventory turnover bằng giá vốn hàng bán chia hàng tồn kho bình quân. Investment turnover bằng doanh thu thuần chia tổng tài sản.",
+  "start": 411.68,
+  "end": 425.92
+ },
+ {
+  "text": "Mẹo nhớ: Quick ratio là Current trừ Inventory, vì hàng tồn kho khó bán nhanh. ROA chia tài sản, ROE chia vốn chủ.",
+  "start": 426.17,
+  "end": 433.77
+ },
+ {
+  "text": "Phần bốn, Stock valuation, định giá cổ phiếu. Ghi nhớ: định giá là xác định intrinsic value hay fair value của cổ phiếu, để quyết định mua bán, M&A, cổ phần hóa equitization, phát hành và niêm yết.",
+  "start": 434.02,
+  "end": 446.58
+ },
+ {
+  "text": "Những lưu ý về định giá. Định giá mang tính chủ quan. Định giá không bất biến, thay đổi theo thông tin và thời gian. Kết quả không bao giờ chắc chắn một trăm phần trăm. Mô hình càng phức tạp, càng nhiều biến thì sai số càng lớn. Và kết quả định giá không quan trọng bằng quá trình định giá.",
+  "start": 446.83,
+  "end": 462.34
+ },
+ {
+  "text": "Ba nhóm phương pháp. Một, Asset valuation, định giá tài sản. Hai, Market ratio valuation hay Relative valuation, định giá so sánh với các công ty khác, gồm P/E, P/B, P/S, PEG. Ba, Discounted Cash Flow, chiết khấu dòng tiền, gồm DDM, FCFE và FCFF.",
+  "start": 462.59,
+  "end": 482.23
+ },
+ {
+  "text": "Mẹo nhớ ba phương pháp: Tài sản, So sánh, Dòng tiền. Tài sản nhìn quá khứ, so sánh nhìn thị trường, dòng tiền nhìn tương lai.",
+  "start": 482.48,
+  "end": 489.44
+ },
+ {
+  "text": "Bắt đầu với Asset valuation. Công thức: Firm value bằng Net asset value cộng Business advantages. Price per share bằng Firm value chia số cổ phiếu đang lưu hành.",
+  "start": 489.69,
+  "end": 499.21
+ },
+ {
+  "text": "Net asset value bằng tổng tài sản đã đánh giá lại trừ tổng nợ phải trả.",
+  "start": 499.46,
+  "end": 503.46
+ },
+ {
+  "text": "Số cổ phiếu lưu hành bằng số cổ phiếu phát hành trừ cổ phiếu quỹ. Số cổ phiếu phát hành bằng vốn điều lệ chia mệnh giá.",
+  "start": 503.71,
+  "end": 510.11
+ },
+ {
+  "text": "Business advantages, lợi thế kinh doanh, bằng vốn chủ sở hữu bình quân của công ty trong n năm, nhân với hiệu số giữa tỷ suất lợi nhuận bình quân của công ty và tỷ suất lợi nhuận bình quân của ngành. Số năm n từ ba đến năm.",
+  "start": 510.36,
+  "end": 523.64
+ },
+ {
+  "text": "Tỷ suất lợi nhuận bình quân của công ty bằng tổng EAT n năm chia tổng vốn chủ sở hữu n năm.",
+  "start": 523.89,
+  "end": 529.49
+ },
+ {
+  "text": "Ví dụ công ty X: tỷ suất của công ty là hai mươi mốt phẩy ba chín phần trăm. Tỷ suất của ngành là mười tám phẩy năm bảy phần trăm. Business advantages khoảng chín tỷ sáu trăm hai mươi ba triệu đồng. Firm value khoảng sáu trăm ba mươi mốt tỷ. Chia cho mười hai triệu tám trăm năm mươi chín nghìn cổ phiếu, ra giá khoảng bốn mươi chín nghìn không trăm chín mươi tám đồng một cổ phiếu.",
+  "start": 529.74,
+  "end": 550.16
+ },
+ {
+  "text": "Với đầu tư thực tế ở Việt Nam, công thức bổ sung: Firm value bằng tổng tài sản trừ tổng nợ, cộng Business advantages, cộng Adjusted value of real estate, phần điều chỉnh giá trị bất động sản.",
+  "start": 550.41,
+  "end": 562.41
+ },
+ {
+  "text": "Hạn chế của Asset valuation: chỉ nhìn quá khứ và hiện tại, không xét thay đổi tương lai; và xét công ty riêng lẻ, không xét tương tác với công ty khác. Mô hình này thường dùng trong cổ phần hóa.",
+  "start": 562.66,
+  "end": 573.62
+ },
+ {
+  "text": "Nhóm hai: Relative valuation. Bắt đầu với P/E.",
+  "start": 573.87,
+  "end": 577.71
+ },
+ {
+  "text": "P/E bằng giá thị trường chia EPS. Giá trị nội tại của cổ phiếu A bằng EPS của A nhân P/E sao: P of A equals EPS of A times P/E star. Lưu ý, EPS phải lớn hơn không, và P/E sao dùng để định giá, không phải P/E hiện tại của chính công ty.",
+  "start": 577.96,
+  "end": 595.12
+ },
+ {
+  "text": "Ba bước: một, tìm P/E để định giá. Hai, tính EPS hiện tại. Ba, tính giá trị cổ phiếu.",
+  "start": 595.37,
+  "end": 601.53
+ },
+ {
+  "text": "Có bốn cách tìm P/E để định giá, chỉ chọn một.",
+  "start": 601.78,
+  "end": 604.9
+ },
+ {
+  "text": "Cách một: Industry P/E, P/E ngành. Lấy ít nhất ba công ty trong ngành, lý tưởng mười công ty. Industry P/E bằng tổng vốn hóa thị trường chia tổng lợi nhuận sau thuế. Ví dụ ba công ty A, B, C: tổng vốn hóa một nghìn năm trăm sáu mươi bốn tỷ, tổng lợi nhuận một trăm lẻ một tỷ, P/E ngành là mười lăm phẩy bốn chín. EPS của X là hai nghìn thì giá trị nội tại là ba mươi nghìn chín trăm tám mươi đồng.",
+  "start": 605.15,
+  "end": 630.48
+ },
+ {
+  "text": "Cách hai: Intrinsic P/E, P/E nội tại. Công thức: Intrinsic P/E bằng một trừ b, nhân một cộng g, chia r trừ g. Trong đó b là retention ratio, tỷ lệ giữ lại lợi nhuận. g là tốc độ tăng trưởng cổ tức. r là tỷ suất chiết khấu. Và g bằng b nhân ROE. Nhớ rằng một trừ b chính là tỷ lệ chi trả cổ tức, payout ratio.",
+  "start": 630.73,
+  "end": 651.79
+ },
+ {
+  "text": "Cách ba: Historical average P/E, P/E bình quân lịch sử, lấy từ ba đến năm năm.",
+  "start": 652.04,
+  "end": 658.28
+ },
+ {
+  "text": "Cách bốn: P/E dựa trên lợi suất bình quân của thị trường. P/E bằng một chia lợi suất thị trường. Ví dụ lợi suất chín phần trăm thì P/E chấp nhận được là một chia không phẩy không chín, khoảng mười một phẩy hai.",
+  "start": 658.53,
+  "end": 670.29
+ },
+ {
+  "text": "Mẹo nhớ bốn cách: Ngành, Nội tại, Lịch sử, Lợi suất. Vần với: Ngành Nội Lịch Lợi.",
+  "start": 670.54,
+  "end": 675.26
+ },
+ {
+  "text": "Tính EPS hiện tại. EPS bằng EAT trừ cổ tức ưu đãi trừ quỹ phúc lợi, rồi chia Nbq. Nbq là số cổ phiếu lưu hành bình quân gia quyền, bằng tổng của số cổ phiếu từng thời kỳ nhân thời gian, chia mười hai tháng hoặc ba trăm sáu mươi lăm ngày.",
+  "start": 675.51,
+  "end": 690.81
+ },
+ {
+  "text": "Hai trường hợp quan trọng. Trường hợp một, phát hành thêm cổ phiếu để huy động vốn, SEO: tính theo thời gian. Ví dụ đầu năm có một triệu cổ phiếu, ngày một tháng bảy phát hành thêm một trăm nghìn. Nbq bằng một nhân sáu cộng một phẩy một nhân sáu, chia mười hai, bằng một phẩy không năm triệu. EPS bằng mười tỷ chia một phẩy không năm triệu, khoảng chín nghìn năm trăm hai mươi bốn đồng.",
+  "start": 691.06,
+  "end": 712.84
+ },
+ {
+  "text": "Trường hợp hai, phát hành cổ phiếu thưởng hoặc trả cổ tức bằng cổ phiếu. Phải điều chỉnh hồi tố về đầu năm. Nbq bằng một triệu cộng một trăm nghìn, bằng một phẩy một triệu. EPS bằng mười tỷ chia một phẩy một triệu, khoảng chín nghìn chín mươi mốt đồng.",
+  "start": 713.09,
+  "end": 726.8
+ },
+ {
+  "text": "Mẹo nhớ: cổ phiếu thưởng, hồi tố đầu năm, không nhân thời gian. Phát hành thêm lấy tiền, nhân thời gian.",
+  "start": 727.05,
+  "end": 732.89
+ },
+ {
+  "text": "Chú ý bài tập công ty A có cổ phiếu ưu đãi: phải trừ cổ tức ưu đãi khỏi lợi nhuận trước khi chia.",
+  "start": 733.14,
+  "end": 738.58
+ },
+ {
+  "text": "P/B bằng giá thị trường chia giá trị sổ sách trên mỗi cổ phiếu, book value per share. P/B lớn hơn một: giá cao hơn giá trị sổ sách. P/B nhỏ hơn một: giá thấp hơn giá trị sổ sách, có thể là cơ hội mua.",
+  "start": 738.83,
+  "end": 752.19
+ },
+ {
+  "text": "P/S bằng giá chia doanh thu trên mỗi cổ phiếu, bằng vốn hóa chia tổng doanh thu.",
+  "start": 752.44,
+  "end": 757.08
+ },
+ {
+  "text": "PEG bằng P/E chia tốc độ tăng trưởng EPS. PEG bằng một: giá bằng giá trị thực. PEG lớn hơn một: giá cao hơn giá trị thực. PEG nhỏ hơn một: giá thấp hơn giá trị thực, hấp dẫn.",
+  "start": 757.33,
+  "end": 769.49
+ },
+ {
+  "text": "Mẹo nhớ: P/B nhỏ hơn một và PEG nhỏ hơn một đều là tín hiệu rẻ. Bé hơn một là rẻ.",
+  "start": 769.74,
+  "end": 775.42
+ },
+ {
+  "text": "Nhóm ba: Discounted Cash Flow, chiết khấu dòng tiền. Công thức tổng quát: giá hôm nay bằng tổng của dòng tiền năm t chia một cộng ke mũ t. Trong đó ke là tỷ suất chiết khấu, required rate of return.",
+  "start": 775.67,
+  "end": 787.83
+ },
+ {
+  "text": "Xác định ke theo bốn cách: CAPM, Gordon, WACC, hoặc tỷ suất kỳ vọng của từng nhà đầu tư. Cách của Buffett là lấy max của lạm phát, lãi suất, lãi suất phi rủi ro, rồi cộng phần bù rủi ro đầu tư.",
+  "start": 788.08,
+  "end": 801.92
+ },
+ {
+  "text": "CAPM: R j bằng R f cộng, mở ngoặc, R m trừ R f, đóng ngoặc, nhân beta j. R f là risk free rate, lãi suất phi rủi ro. R m là market return, lợi suất thị trường. Beta bằng Covariance chia Variance. Beta lớn hơn một: rủi ro hơn thị trường. Beta nhỏ hơn một: ít rủi ro hơn. Ví dụ slide beta của A là một phẩy một hai.",
+  "start": 802.17,
+  "end": 823.41
+ },
+ {
+  "text": "Gordon: P zero bằng D zero nhân một cộng g, chia r trừ g. Suy ra r bằng D zero nhân một cộng g, cộng P zero nhân g, rồi chia P zero.",
+  "start": 823.66,
+  "end": 832.38
+ },
+ {
+  "text": "WACC: Weighted Average Cost of Capital, chi phí vốn bình quân gia quyền. Ví dụ Photon: một nửa vốn cổ phần chi phí bảy phần trăm, một nửa nợ chi phí sáu phần trăm, thuế ba mươi lăm phần trăm. WACC bằng không phẩy năm nhân bảy phần trăm cộng không phẩy năm nhân sáu phần trăm nhân một trừ không phẩy ba lăm, bằng năm phẩy bốn lăm phần trăm. Nhớ: chi phí nợ được nhân một trừ thuế vì lãi vay được khấu trừ thuế.",
+  "start": 832.63,
+  "end": 858.01
+ },
+ {
+  "text": "DDM, Dividend Discount Model. Giá trị cổ phiếu là hiện giá của dòng cổ tức. Phù hợp công ty tăng trưởng ổn định, chi trả cổ tức cao, và tốc độ tăng cổ tức thấp hơn tỷ suất chiết khấu.",
+  "start": 858.26,
+  "end": 869.14
+ },
+ {
+  "text": "Gordon Growth Model, mô hình tăng trưởng đều vô hạn: V bằng D một chia ke trừ g. Ví dụ cổ tức năm một là một nghìn không trăm năm mươi, g năm phần trăm, ke mười sáu phần trăm, V bằng một nghìn không trăm năm mươi chia mười một phần trăm, bằng chín nghìn năm trăm bốn mươi lăm.",
+  "start": 869.39,
+  "end": 884.68
+ },
+ {
+  "text": "Cẩn thận: D một bằng D zero nhân một cộng g. Đề cho D zero thì phải nhân một cộng g trước.",
+  "start": 884.93,
+  "end": 890.37
+ },
+ {
+  "text": "Trường hợp cổ tức không đổi, zero growth: V bằng D chia ke. Ví dụ một nghìn chia mười sáu phần trăm bằng sáu nghìn hai trăm năm mươi.",
+  "start": 890.62,
+  "end": 897.82
+ },
+ {
+  "text": "Cổ phiếu ưu đãi, preferred stock: giá bằng cổ tức ưu đãi chia tỷ suất yêu cầu, giống perpetuity. Ví dụ mệnh giá sáu mươi đô, cổ tức bảy phần trăm là bốn phẩy hai đô, chia tám phẩy năm phần trăm, khoảng bốn mươi chín phẩy bốn tư đô.",
+  "start": 898.07,
+  "end": 911.91
+ },
+ {
+  "text": "Multistage DDM, nhiều giai đoạn. Giai đoạn một tăng trưởng cao đều. Giai đoạn hai tăng trưởng giảm dần. Giai đoạn ba tăng trưởng thấp ổn định vĩnh viễn, dùng Gordon, rồi chiết khấu về hiện tại. Ví dụ công ty X: giá trị khoảng bốn mươi tám nghìn bảy trăm bốn mươi đồng.",
+  "start": 912.16,
+  "end": 927.12
+ },
+ {
+  "text": "FCFE, Free Cash Flow to Equity, dòng tiền tự do cho cổ đông. FCFE bằng lợi nhuận ròng cộng khấu hao, trừ Capex, trừ thay đổi vốn lưu động, cộng vay ròng. Dùng ke theo CAPM. Giá trị ra là giá trị vốn chủ sở hữu. Giá một cổ phiếu bằng equity chia số cổ phiếu.",
+  "start": 927.37,
+  "end": 945.03
+ },
+ {
+  "text": "FCFF, Free Cash Flow to Firm, dòng tiền tự do cho doanh nghiệp. FCFF bằng FCFE trừ vay ròng, cộng lãi vay nhân một trừ thuế. Dùng ke bằng WACC. Giá trị ra là giá trị doanh nghiệp. Giá một cổ phiếu bằng giá trị doanh nghiệp trừ nợ, rồi chia số cổ phiếu.",
+  "start": 945.28,
+  "end": 962.94
+ },
+ {
+  "text": "Mẹo nhớ: E đi với CAPM, F đi với WACC. FCFE ra Equity, FCFF ra Firm phải trừ nợ.",
+  "start": 963.19,
+  "end": 971.03
+ },
+ {
+  "text": "Buffett thường dùng hai giai đoạn: giai đoạn một mười năm, giai đoạn hai từ năm mười một đến vô cực.",
+  "start": 971.28,
+  "end": 976.64
+ },
+ {
+  "text": "Tóm tắt chương hai: Top-down và Bottom-up, Five Forces, năm lợi thế cạnh tranh, ba nhóm định giá, bốn cách tìm P/E, công thức Gordon, và FCFE đi với CAPM còn FCFF đi với WACC.",
+  "start": 976.89,
+  "end": 990.97
+ }
+]
