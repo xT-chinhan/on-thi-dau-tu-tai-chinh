@@ -61,6 +61,7 @@ body[data-dark] .chp{color:#07101f}
 .box h5{margin:0 0 6px;font-size:15px}
 .chips mark{display:inline-block;margin:3px 4px 3px 0;padding:2px 9px}
 .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:10px 0}
+.pgr{justify-content:space-between}.jmp{width:64px;padding:8px;font-size:16px;border:2px solid var(--bd);border-radius:8px;background:var(--card);color:inherit}.stick{position:sticky;top:56px;z-index:5;background:var(--bg);padding:6px 0}button[disabled]{opacity:.4}
 .prog{height:12px;border-radius:8px;background:var(--bd);overflow:hidden;flex:1 1 140px}
 .prog>div{height:100%;background:var(--cc,var(--ac));transition:width .3s}
 select{font:inherit;font-size:16px;padding:9px;border-radius:10px;border:2px solid var(--bd);background:var(--card);color:var(--fg);min-height:44px}
@@ -117,9 +118,9 @@ function render(){nav();const m=$("#m");m.style.setProperty("--cc",`var(--c${CCO
  else quiz(m)}
 function quiz(m){
  const wrong=store.get("wrong",[]);
- m.innerHTML=`<h2>Quiz (English)</h2>${legend()}<div class="bar"><button data-m="drill" class="${qs.mode=="drill"?"on":""}">Luyện từng câu</button><button data-m="exam" class="${qs.mode=="exam"?"on":""}">Đề 40 câu · 40 phút</button><button data-m="wrong" class="${qs.mode=="wrong"?"on":""}">Ôn câu sai (${wrong.length})</button></div><div id="qa"></div>`;
+ m.innerHTML=`<h2>Quiz (English)</h2>${legend()}<div class="bar"><button data-m="drill" class="${qs.mode=="drill"?"on":""}">Luyện từng câu</button><button data-m="exam40" class="${qs.mode=="exam40"?"on":""}">Đề 40 câu · 40 phút</button><button data-m="exam120" class="${qs.mode=="exam120"?"on":""}">Đề 120 câu · 120 phút</button><button data-m="wrong" class="${qs.mode=="wrong"?"on":""}">Ôn câu sai (${wrong.length})</button></div><div id="qa"></div>`;
  m.querySelectorAll("[data-m]").forEach(b=>b.onclick=()=>{qs={mode:b.dataset.m};quiz(m)});
- if(qs.mode=="drill")setup(false);else if(qs.mode=="wrong")setup(true);else exam();
+ if(qs.mode=="drill")setup(false);else if(qs.mode=="wrong")setup(true);else exam(qs.mode=="exam120"?120:40);
 }
 function shuffle(a){a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a}
 function setup(w){const tags=[...new Set(Q.map(q=>q.tag))];
@@ -128,7 +129,7 @@ function setup(w){const tags=[...new Set(Q.map(q=>q.tag))];
   if(w){const ws=store.get("wrong",[]);l=l.filter(q=>ws.includes(q.id))}
   if($("#sh").checked)l=shuffle(l);
   if(!l.length){$("#qq").innerHTML="<p>Không có câu nào.</p>";return}
-  drill(l,0,0)}}
+  l.length>20?paged(l,{instant:true,label:"Practice"}):drill(l,0,0)}}
 function head(q,i,n){return `<div class="mut"><span class="chp" style="--cc:var(--c${q.ch})">${CH[q.ch]}</span><span class="tag">${q.tag}</span> · Question ${i+1}/${n}</div>`}
 function qHTML(q,i,n,locked,pick,order){
  return `<div class="qb" style="--cc:var(--c${q.ch})">${head(q,i,n)}<div class="qt">${H(q.q)}</div>`+
@@ -145,17 +146,30 @@ function drill(l,i,score){const q=l[i],order=shuffle([0,1,2,3]);let locked=false
   else $("#nx").onclick=()=>{i+1<l.length?(drill(l,i+1,score),scrollTo(0,0)):$("#qq").innerHTML=`<div class="qb"><div class="big">${score}/${l.length}</div><p>Câu sai được lưu ở “Ôn câu sai”.</p></div>`}};
  draw(null)}
 function rec(id,ok){let w=store.get("wrong",[]);w=ok?w.filter(x=>x!=id):[...new Set([...w,id])];store.set("wrong",w)}
-function exam(){const quota={1:6,2:12,3:12,4:8,5:2};let l=[];
+function exam(N){const quota=N==120?{1:18,2:36,3:36,4:24,5:6}:{1:6,2:12,3:12,4:8,5:2};let l=[];
  for(const c in quota)l=l.concat(shuffle(Q.filter(q=>q.ch==c)).slice(0,quota[c]));
- l=shuffle(l);const ans={},ord=l.map(()=>shuffle([0,1,2,3]));let end=Date.now()+40*60000,i=0,done=false,tm;
- const draw=()=>{const q=l[i],na=Object.keys(ans).length;$("#qa").innerHTML=`<div class="bar"><span class="big" id="clk"></span><div class="prog"><div style="width:${na/40*100}%"></div></div><span class="mut">${na}/40</span><button id="sub">Nộp bài</button></div>`+qHTML(q,i,40,false,ans[i],ord[i])+`<div class="bar"><button id="pv">← Trước</button><button id="nx" class="on">Sau →</button></div><div class="bar">${l.map((_,k)=>`<button data-k="${k}" class="num ${k==i?"on":""} ${ans[k]!==undefined&&k!=i?"done":""}">${k+1}</button>`).join("")}</div>`;
-  $("#qa").querySelectorAll(".opt").forEach(b=>b.onclick=()=>{ans[i]=+b.dataset.o;draw()});
-  $("#pv").onclick=()=>{i=Math.max(0,i-1);draw()};$("#nx").onclick=()=>{i=Math.min(39,i+1);draw()};
-  $("#qa").querySelectorAll("[data-k]").forEach(b=>b.onclick=()=>{i=+b.dataset.k;draw()});
-  $("#sub").onclick=()=>finish();tick()};
- const tick=()=>{clearInterval(tm);const f=()=>{const s=Math.max(0,(end-Date.now())/1000|0),e=$("#clk");if(e)e.textContent=`⏱ ${String(s/60|0).padStart(2,"0")}:${String(s%60).padStart(2,"0")}`;if(s<=0&&!done){clearInterval(tm);finish()}if(!e)clearInterval(tm)};f();tm=setInterval(f,1000)};
- const finish=()=>{if(done)return;done=true;clearInterval(tm);let sc=0;l.forEach((q,k)=>{const ok=ans[k]===0;if(ok)sc++;rec(q.id,ok)});
-  $("#qa").innerHTML=`<div class="qb"><div class="big">${sc}/40 (${(sc/4).toFixed(2)}/10)</div></div>`+l.map((q,k)=>qHTML(q,k,40,true,ans[k],ord[k])+fbox(q,ans[k]===0,ord[k])).join("")};
+ paged(shuffle(l),{minutes:N==120?120:40,label:N+"-question exam"})}
+const PS=10;
+function paged(l,opt){const N=l.length,np=Math.ceil(N/PS),ans={},ord=l.map(()=>shuffle([0,1,2,3])),inst=!!opt.instant;
+ let pg=0,done=false,tm,end=opt.minutes?Date.now()+opt.minutes*60000:0,sc=0;
+ const locked=k=>done||(inst&&ans[k]!==undefined);
+ const pager=id=>{let h=`<div class="bar pgr"><button data-g="prev"${pg==0?" disabled":""}>← Prev</button><span class="mut">Page <b>${pg+1}</b>/${np}</span><button data-g="next"${pg==np-1?" disabled":""}>Next →</button><label class="mut">Go to <input type="number" min="1" max="${np}" value="${pg+1}" class="jmp" data-j></label></div>`;
+  if(id=="t")h+=`<div class="bar">${Array.from({length:np},(_,p)=>{let c=0;for(let k=p*PS;k<Math.min(N,p*PS+PS);k++)if(ans[k]!==undefined)c++;const full=c==Math.min(PS,N-p*PS);return `<button data-p="${p}" class="num ${p==pg?"on":""} ${full&&p!=pg?"done":""}">${p+1}</button>`}).join("")}</div>`;
+  return h};
+ const draw=(keep)=>{const y=scrollY,na=Object.keys(ans).length;let h="";
+  if(done)h+=`<div class="qb"><div class="big">${sc}/${N} (${(sc/N*10).toFixed(2)}/10)</div><p>${opt.label}: review below. Wrong answers are saved in “Ôn câu sai”.</p></div>`;
+  else h+=`<div class="bar stick">${opt.minutes?`<span class="big" id="clk"></span>`:""}<div class="prog"><div style="width:${na/N*100}%"></div></div><span class="mut"><b>${na}</b>/${N} answered</span><button id="sub" class="on">${opt.minutes?"Nộp bài":"Kết thúc"}</button></div>`;
+  h+=pager("t");
+  for(let k=pg*PS;k<Math.min(N,pg*PS+PS);k++){const q=l[k],lk=locked(k);h+=qHTML(q,k,N,lk,ans[k],ord[k])+(lk?fbox(q,ans[k]===0,ord[k]):"")}
+  h+=pager("b");$("#qa").innerHTML=h;
+  $("#qa").querySelectorAll(".qb").forEach((bx,i)=>{const k=pg*PS+i;bx.querySelectorAll(".opt").forEach(b=>b.onclick=()=>{if(locked(k))return;ans[k]=+b.dataset.o;if(inst)rec(l[k].id,ans[k]===0);draw(1)})});
+  $("#qa").querySelectorAll("[data-g]").forEach(b=>b.onclick=()=>{pg=Math.max(0,Math.min(np-1,pg+(b.dataset.g=="next"?1:-1)));draw();scrollTo(0,0)});
+  $("#qa").querySelectorAll("[data-p]").forEach(b=>b.onclick=()=>{pg=+b.dataset.p;draw();scrollTo(0,0)});
+  $("#qa").querySelectorAll("[data-j]").forEach(e=>e.onchange=()=>{pg=Math.max(0,Math.min(np-1,(+e.value||1)-1));draw();scrollTo(0,0)});
+  const sb=$("#sub");if(sb)sb.onclick=()=>{const un=N-Object.keys(ans).length;if(!un||confirm(`${un} unanswered. Submit anyway?`))finish()};
+  if(keep)scrollTo(0,y);tick()};
+ const tick=()=>{clearInterval(tm);if(!opt.minutes||done)return;const f=()=>{const s=Math.max(0,(end-Date.now())/1000|0),e=$("#clk");if(e)e.textContent=`⏱ ${String(s/60|0).padStart(2,"0")}:${String(s%60).padStart(2,"0")}`;if(s<=0&&!done){clearInterval(tm);finish()}if(!e)clearInterval(tm)};f();tm=setInterval(f,1000)};
+ const finish=()=>{if(done)return;done=true;clearInterval(tm);sc=0;l.forEach((q,k)=>{const ok=ans[k]===0;if(ok)sc++;if(!inst)rec(q.id,ok)});pg=0;draw();scrollTo(0,0)};
  draw()}
 function setTheme(d){const r=document.documentElement;r.dataset.t=d?"dark":"light";if(d)document.body.setAttribute("data-dark","");else document.body.removeAttribute("data-dark")}
 $("#th").onclick=()=>{const r=document.documentElement;const d=r.dataset.t=="dark"||(!r.dataset.t&&matchMedia("(prefers-color-scheme:dark)").matches);setTheme(!d)};
