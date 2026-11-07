@@ -1,0 +1,620 @@
+{
+"0": [
+"Committing money or other resources now for expected future benefits",
+"Purchasing goods and services now purely for immediate personal consumption",
+"Depositing money at a zero interest rate in order to preserve the capital",
+"Short-term trading aimed at profiting from intraday price differences"
+],
+"1": [
+"Thorough analysis, safety of principal and a satisfactory return",
+"The highest possible return in a short time, regardless of the risk",
+"Following the crowd (herd) to save on the cost of analysis",
+"Buying and selling quickly within a very short period of time"
+],
+"3": [
+"Determine investment objectives: profits and risks",
+"Analysis of the identified investment opportunities and instruments",
+"Disbursement of capital into the chosen investment",
+"Market timing: choosing when to enter the market"
+],
+"4": [
+"Seeking information about the law on investment",
+"Market timing: choosing the best moment to enter",
+"Analysis of the identified investment opportunities",
+"Disbursement of funds into the chosen assets"
+],
+"5": [
+"Never be patient with losses; the market is always right",
+"Hold the losing stock because it has fallen too far to fall any more",
+"Keep averaging down until you break even again and recover",
+"Wait for a celebrity's advice before deciding to sell the stock"
+],
+"6": [
+"Be patient with profitable investments because big waves can last for years",
+"Take profits as soon as a small gain appears, to lock in the return",
+"Sell everything when the price rises sharply because it cannot go up any more",
+"Switch to another field of investment as soon as a gain appears"
+],
+"7": [
+"Believing a stock bought by many people must be of good quality",
+"Investing only in the one field in which you are an expert",
+"Analyzing financial statements carefully before buying any stock",
+"Managing time so as to find key information as quickly as possible"
+],
+"8": [
+"\"Why\" / good or bad stocks → long-term strategy",
+"\"How\" / will the stock rise or fall → a short-term strategy",
+"It uses only prices and volumes to find trends → short term",
+"It uses mathematical models to forecast prices → long term"
+],
+"10": [
+"Picks stocks priced below intrinsic or book value and holds them long term",
+"Picks stocks with the highest EPS growth regardless of the price paid for them",
+"Buys the 10 highest dividend-yielding stocks in the DJIA and rebalances every year",
+"Trades in the short term based on chart patterns and momentum signals"
+],
+"11": [
+"PEG < 1 (growth with a relatively low P/E)",
+"PEG > 2 (very high growth at any price)",
+"Only the highest-dividend stocks in the market",
+"The highest P/E ratio in the whole market"
+],
+"12": [
+"Holding the 10 highest-yielding DJIA stocks, rebalanced yearly",
+"Buying the 30 DJIA stocks with the highest P/E ratios and holding them for good",
+"Buying the 10 best-performing DJIA stocks of the year and rebalancing every day",
+"Buying the 10 DJIA stocks with the smallest market capitalization each quarter"
+],
+"13": [
+"Scarce supply with strong demand",
+"Stability of earnings over many years",
+"Size of the firm measured by total assets",
+"Strong dividends paid every single quarter"
+],
+"14": [
+"Current quarterly EPS sharply above the same quarter last year (> 20%)",
+"Annual EPS growth sustained for 5 consecutive years, generally > 20%",
+"New products, new management or new events that push the stock to new highs",
+"The stock is a leader rather than a laggard in its industry group"
+],
+"15": [
+"Pick stocks backed by a few institutions; avoid over-owned ones",
+"The more institutions that hold the stock, the better its prospects",
+"No institution at all should hold the stock under any circumstance",
+"I stands for Inflation, which must be low for the stock to rise"
+],
+"16": [
+"William O'Neil (IBD): fundamental and technical analysis",
+"Benjamin Graham: fundamental analysis only, with no use of price charts",
+"Philip Fisher: technical analysis only, with no use of earnings data",
+"Warren Buffett: quantitative analysis based on mathematical models"
+],
+"20": [
+"The P/E ratio of one particular company",
+"GDP growth and the inflation rate of the country",
+"The exchange rate and the interest rate levels",
+"The balance of payments (BOP) and the ICOR"
+],
+"21": [
+"A mix of economic, social, legal, financial and infrastructure factors",
+"A mix of political, military, religious and diplomatic factors in the country",
+"The set of tax, accounting and auditing regulations that apply to a company",
+"A mix of stock prices, trading volumes and market indices on the exchange"
+],
+"22": [
+"Low interest rates, easy borrowing and rising profits",
+"GDP falls, layoffs begin and investors shift money into bonds",
+"Growth hits its maximum and production costs start to rise sharply",
+"The economy hits its lowest point and then begins to recover again"
+],
+"23": [
+"Growth reaches its maximum and rising costs are passed on to customers",
+"Interest rates are at their lowest and firms start hiring more workers again",
+"Consumer spending falls sharply and a bear market in stocks begins",
+"The economy starts to recover from its lowest point and output rises"
+],
+"24": [
+"Move money into safe assets like Treasury bonds and cash",
+"Buy stocks aggressively because interest rates are so high",
+"Hire more workers to meet the strong demand for goods",
+"Borrow more money to expand their production capacity"
+],
+"25": [
+"The economy reaches its lowest point and starts to recover",
+"The economy overheats and reaches its peak growth rate",
+"A prolonged crisis in which many firms close permanently",
+"The period in which interest rates reach their highest level"
+],
+"26": [
+"Industry growth relative to GDP growth, and fit with the current economic stage",
+"The industry's average P/E and P/B compared with the rest of the market",
+"The number of listed companies and the total market capitalization of the industry",
+"Government bond yields and exchange rates in the current period"
+],
+"27": [
+"Morgan Stanley and Standard & Poor's",
+"The United Nations (UN) statistics division",
+"Dow Jones and FTSE (the ICB system)",
+"The U.S. Census Bureau (the NAICS system)"
+],
+"28": [
+"Its main business activity, which brings the main revenue for a long time",
+"The industry that has the largest number of companies listed on the exchange",
+"The industry the board of directors chooses at the time of registration",
+"The industry in which the company has the largest charter capital"
+],
+"30": [
+"Find which factors drive industry competition and affect its profit",
+"Forecast tomorrow's exact stock price of every company in the industry",
+"Compute the industry's WACC from its average capital structure",
+"Assign the official VSIC industry code to each listed company"
+],
+"31": [
+"Buyers are concentrated, buy in bulk and can switch easily",
+"The product is highly differentiated and the switching costs are high",
+"There are only a few small buyers scattered across the market",
+"The product is vital to the buyer's own product and is monopolized"
+],
+"32": [
+"Trademark, License/patent, Fee, Convert fee, Price",
+"Capital, labor, land, technology and brand reputation",
+"Price, place, advertising, promotion and packaging",
+"Dividends, EPS, ROE, P/E and P/B ratios of the firm"
+],
+"33": [
+"Dividends are low, the debt ratio is low and board ownership is low",
+"Dividends are high, the debt ratio is high and board ownership is high",
+"Dividends are high but the debt ratio is low and board ownership is low",
+"Board ownership is high while the debt ratio and dividends are low"
+],
+"34": [
+"Evaluate top management for honesty and competence",
+"Buy the stock with the highest P/E in the sector",
+"Always follow the crowd when prices are rising fast",
+"Prefer stocks with the largest short-term price volatility"
+],
+"38": [
+"Asset, Relative (market ratio) and Discounted Cash Flow",
+"Top-down, Bottom-up and Porter's five forces approaches",
+"CAPM, WACC and Gordon growth discount-rate models",
+"Fundamental, Technical and Quantitative analysis methods"
+],
+"39": [
+"Firm value = Total assets − Total liabilities + Business advantages + Adjusted real estate value",
+"Firm value = Total assets + Total liabilities − Business advantages − Adjusted value of real estate",
+"Firm value = EPS × P/E + Business advantages + Adjusted value of real estate",
+"Firm value = Dividend/(r − g) + Business advantages + Adjusted value of real estate"
+],
+"46": [
+"Sum of market capitalization ÷ sum of earnings after tax",
+"The simple average of the stock prices of the industry's firms",
+"Sum of EPS of the firms ÷ sum of the stock prices",
+"Sum of earnings after tax ÷ sum of market capitalization"
+],
+"48": [
+"P/E = (1 − b) × (1 + g)/(r − g), where b is the retention ratio",
+"P/E = b × (1 + g)/(r − g), where b is the retention ratio of earnings",
+"P/E = (1 − b) × (1 + g)/(r + g), where b is the retention ratio",
+"P/E = r/((1 − b) × (1 + g)), where b is the retention ratio"
+],
+"51": [
+"The market price is below book value per share, so the stock may be cheap",
+"The market price is far above book value per share, so the stock is surely expensive",
+"The company is certain to go bankrupt in the near future",
+"The stock is priced higher than its real intrinsic value"
+],
+"52": [
+"The stock price is lower than its real (intrinsic) value",
+"The stock price is higher than its real value",
+"The stock price is exactly equal to its real value",
+"The company is currently making losses and pays no dividend"
+],
+"53": [
+"Stock price ÷ sales per share, i.e. market cap ÷ sales",
+"Stock price ÷ earnings per share, i.e. market cap ÷ earnings",
+"Stock price ÷ book value per share, i.e. market cap ÷ equity",
+"Total sales ÷ total assets, i.e. the asset turnover ratio"
+],
+"63": [
+"A steady-growth company that pays most of its earnings as dividends",
+"A start-up that pays no dividends and keeps making losses every year",
+"A company with explosive growth in which g is far greater than ke",
+"A company that retains all of its earnings for reinvestment in projects"
+],
+"64": [
+"FCFF is discounted at WACC; debt is subtracted before dividing by shares",
+"FCFF is discounted at ke, while FCFE is discounted at WACC to get firm value",
+"Both models give the equity value directly, with no debt adjustment",
+"FCFF does not need the number of shares to get the price per share"
+],
+"65": [
+"FCFE = NI + D&A − Capex − ΔWC + Net borrowing",
+"FCFE = NI − D&A + Capex + ΔWC − Net borrowing",
+"FCFE = NI + D&A + Capex − ΔWC − Net borrowing",
+"FCFE = NI + D&A − Capex + ΔWC + Interest × (1 − t)"
+],
+"67": [
+"r = Max(inflation, interest rate, risk-free rate) + risk premium",
+"r = Min(inflation, interest rate, risk-free rate) + investment risk premium",
+"r = Max(ROE, P/E, dividend yield) + investment risk premium",
+"r = Min(inflation, ROE) − investment risk premium"
+],
+"68": [
+"It looks only at the past and present, not at future changes",
+"It depends too heavily on forecasts of distant future cash flows",
+"It can only be applied to value companies that are making losses",
+"It cannot be used to value firms undergoing equitization"
+],
+"69": [
+"A fixed-income instrument representing a loan to a borrower",
+"A certificate of partial ownership of the issuing company",
+"A contract giving the holder the right to buy shares in the firm",
+"A demand savings account with no maturity date at a bank"
+],
+"71": [
+"Short-term 1–5 years; intermediate 5–12 years; long-term > 12",
+"Short-term < 1 year; intermediate 1–5 years; long-term > 5 years",
+"Short-term 1–3 years; intermediate 3–7 years; long-term > 7 years",
+"Short-term 1–10 years; intermediate 10–20 years; long-term > 20"
+],
+"72": [
+"Floating rate bond, Coupon bond and Zero-coupon bond",
+"Redeemable bond, Convertible bond and Warrant-linked bond",
+"Government bond, Civil bond and Corporate bond issues",
+"Domestic bond, Foreign bond and Eurobond issues"
+],
+"73": [
+"Face value / face amount / principal amount",
+"Market value of the bond at the time of issue",
+"Intrinsic value as estimated by the investor",
+"Book value per share of the issuing company"
+],
+"74": [
+"Tends to be higher",
+"Tends to be lower",
+"Stays exactly unchanged",
+"Falls to zero"
+],
+"75": [
+"A final payment that is much larger than the earlier payments",
+"A bond whose whole principal matures all at once on one date",
+"A bond that pays no interest at all before it matures",
+"A bond whose principal is repaid in equal installments each year"
+],
+"78": [
+"Sell the bond on the market at 1,120,000",
+"Convert the bond into 20 common shares and hold them",
+"Sell the bond back to the company at 1,110,000",
+"None of the options is better than the others"
+],
+"80": [
+"Interest rate, Credit, Inflation, Liquidity, Currency, Reinvestment and Tax",
+"Market, Operational, Legal, Political, Settlement, Systemic and Model risk",
+"Interest rate, Credit, Inflation, Liquidity, Business, Financial and Tax risk",
+"Interest rate, Credit, Beta, Liquidity, Exchange rate, Reinvestment and Tax risk"
+],
+"81": [
+"Equity price volatility (beta) risk",
+"Reinvestment risk on coupons received",
+"Tax risk from changes in the tax rate",
+"Liquidity risk in the secondary market"
+],
+"82": [
+"Rates rise → prices fall; rates fall → prices rise",
+"When interest rates rise, bond prices rise as well",
+"The two variables are unrelated to each other, in any case",
+"When interest rates fall, bond prices fall as well"
+],
+"83": [
+"Longer maturity and a lower coupon mean a greater effect on the price",
+"The longer the maturity, the smaller the effect of interest rates on the price",
+"The higher the coupon, the more sensitive the price is to interest rates",
+"It mainly affects floating-rate bonds rather than fixed-rate bonds"
+],
+"84": [
+"The issuer cannot pay interest or principal when due",
+"The bond price falls because market interest rates rise",
+"It is hard to find a buyer when the investor wants to sell",
+"The purchasing power of coupons falls because of inflation"
+],
+"86": [
+"Aaa (Moody's) / AAA (S&P)",
+"Aa1 (Moody's) / AA+ (S&P)",
+"A1 (Moody's) / A+ (S&P)",
+"Baa1 (Moody's) / BBB+ (S&P)"
+],
+"87": [
+"Government bonds tend to be more liquid than corporate bonds",
+"Corporate bonds are always more liquid than government bonds of any size",
+"It affects individual investors more strongly than institutional ones",
+"It does not depend on the activity of the secondary bond market"
+],
+"89": [
+"Interest rates fall, so coupons are reinvested at lower rates",
+"Interest rates rise and the market price of the bond falls below par",
+"The tax rates on bond income change from one year to the next",
+"The exchange rate between two currencies fluctuates over time"
+],
+"100": [
+"A premium (above par value)",
+"A discount (below par value)",
+"Exactly par value (equal to face value)",
+"A price that cannot be determined without the maturity"
+],
+"102": [
+"Equals par value, whatever the maturity",
+"Is above par value when the maturity is long",
+"Is below par value when the maturity is long",
+"Is zero when the bond is close to maturity"
+],
+"103": [
+"14 days before the payment date",
+"30 days before the interest payment date",
+"Exactly on the interest payment date",
+"7 days after the interest payment date"
+],
+"105": [
+"Excel returns the quoted (clean) price, not the settlement price",
+"Excel always gives the actual (dirty) settlement price of the trade",
+"Manual calculation gives the quoted (clean) exchange price",
+"The two methods always give exactly the same price result"
+],
+"106": [
+"The PV-weighted average maturity of the cash flows",
+"The time remaining until the maturity date of the bond",
+"The percentage change in price when rates move by 1%",
+"The change in the bond's convexity when yields change"
+],
+"108": [
+"Bond 1 (lower duration, faster payback)",
+"Bond 2 (higher duration, slower payback)",
+"There is no difference between the two bonds",
+"It is impossible to choose between them"
+],
+"110": [
+"Falls ≈ $0.2768, new price ≈ $107.5961",
+"Rises ≈ $0.2768, new price ≈ $108.1497",
+"Falls ≈ $2.768, new price ≈ $105.1049",
+"Falls ≈ $0.02566, new price ≈ $107.8472"
+],
+"111": [
+"To improve duration for large rate changes",
+"To calculate the nominal interest rate of a bond",
+"To determine the credit rating of the issuer",
+"To compute the tax payable on the bond income"
+],
+"113": [
+"Long maturity and low coupon",
+"Short maturity and high coupon",
+"Short maturity and low coupon",
+"Floating rate with long maturity"
+],
+"114": [
+"Eurobond (by issuing market)",
+"Convertible bond (by bond properties)",
+"Zero-coupon bond (by coupon rate)",
+"Serial bond (by maturity structure)"
+],
+"115": [
+"Depends on an underlying asset, is not self-born, trades independently",
+"Fixed price, no risk and voting rights, issued directly by the company",
+"Traded only OTC, with no underlying asset, and paying regular dividends",
+"Issued by the central bank, with a fixed price and a perpetual life"
+],
+"116": [
+"The right, not the obligation, to buy or sell the asset",
+"The obligation to buy or sell the asset at the strike price",
+"The right to receive dividends from the underlying company",
+"The right to vote at the general meeting of the company"
+],
+"117": [
+"European: exercised only at expiry; American: any time up to expiry",
+"European: exercisable at any time before expiry; American: only at expiry",
+"Both can be exercised only on the expiration date, with no early exercise",
+"Both can be exercised at any time up to the expiration date, early or late"
+],
+"118": [
+"Option premium (the fee)",
+"Initial margin deposit",
+"Strike price (exercise price)",
+"Coupon payment"
+],
+"119": [
+"Profit of 18,000,000 VND; return of 900%",
+"Profit of 20,000,000 VND; return of 1,000%",
+"Loss of 2,000,000 VND; return of −100%",
+"Profit of 18,000 VND; return of 9%"
+],
+"120": [
+"Loss of 2,000,000 VND (−100%)",
+"Loss of 10,000,000 VND (−500%)",
+"Profit of 8,000,000 VND (+400%)",
+"Loss of 12,000,000 VND (−600%)"
+],
+"121": [
+"Profit of 8,000,000 VND (+400%)",
+"Loss of 2,000,000 VND (−100%)",
+"Profit of 10,000,000 VND (+500%)",
+"Profit of 12,000,000 VND (+600%)"
+],
+"122": [
+"Loss of 2,000,000 VND (−100%)",
+"Profit of 18,000,000 VND (+900%)",
+"Profit of 20,000,000 VND (+1,000%)",
+"Loss of 20,000,000 VND (−1,000%)"
+],
+"125": [
+"Profit capped at the premium C; loss unlimited as S rises",
+"Unlimited profit, with the maximum loss equal to the premium",
+"Maximum profit = X − C, with a loss limited to the premium",
+"Always breaks even, whatever the price at expiration"
+],
+"126": [
+"Lose money (maximum loss X − C per share at S = 0)",
+"Gain without limit as the price keeps falling",
+"Gain only the premium C, whatever the price at expiry",
+"Break even at expiry, regardless of the price"
+],
+"127": [
+"OTC options are negotiated directly and cannot be resold before maturity",
+"OTC options are standardized in contract terms, while listed options are negotiated",
+"Both are standardized, with fixed strike prices and expiry dates",
+"Listed options do not trade on an exchange but only between banks"
+],
+"128": [
+"Chicago Board Options Exchange (CBOE)",
+"Chicago Mercantile Exchange (CME) in 1874",
+"Chicago Board of Trade (CBOT), the grain exchange",
+"EUREX (Germany and Switzerland)"
+],
+"129": [
+"Forward: customized OTC deal; futures: standardized, listed",
+"Forward: standardized; futures: customized between two parties",
+"Both are standardized contracts traded on a central exchange",
+"A forward carries no obligation to buy or sell at all"
+],
+"130": [
+"Option: the buyer has a right; futures: both sides are obliged",
+"Option: the buyer has an obligation; futures: both sides have a right",
+"Both are only rights and carry no obligations for either party",
+"Both are obligations of the buyer and the seller at maturity"
+],
+"132": [
+"Chicago Board of Trade (CBOT), for agricultural goods",
+"Chicago Board Options Exchange (CBOE), for listed options",
+"EUREX, the alliance between Germany and Switzerland",
+"CME in 1971, for currency and securities futures"
+],
+"134": [
+"The investor gets a margin call and must deposit more funds",
+"The contract is automatically cancelled without any notice",
+"All of the margin is refunded to the investor at once",
+"Nothing is required of the investor until the contract expires"
+],
+"135": [
+"Long +$1,000 (20,000); short −$1,000 (18,000)",
+"Long −$1,000 (balance 18,000); short +$1,000 (balance 20,000)",
+"Long +$960 (balance 19,960); short −$960 (balance 18,040)",
+"Both sides gain $1,000 (20,000 each)"
+],
+"136": [
+"Margin call: the short must deposit more margin",
+"The long position must deposit additional margin",
+"Neither side has to deposit anything additional",
+"The contract is cancelled and the money returned"
+],
+"137": [
+"Open-end funds deal with the manager; closed-end funds trade on the market",
+"Open-end funds raise capital once; closed-end funds keep issuing certificates",
+"Closed-end funds buy back certificates directly from the fund manager",
+"The two fund types are identical in size, life and liquidity"
+],
+"138": [
+"An actively managed pool using varied strategies to beat the market",
+"A passive fund that simply tracks a market index at a very low cost",
+"A public fund that buys only blue-chip stocks and never uses leverage",
+"An insurance fund managed by a bank to protect all of its depositors"
+],
+"139": [
+"Capital not listed on a public exchange, invested in private firms",
+"Capital raised from the public through listed shares on the exchange",
+"Capital lent to governments through long-term treasury bonds",
+"Money deposited with banks and earning a fixed deposit rate"
+],
+"140": [
+"A house depreciates but land does not, so location matters",
+"Neither the house nor the land loses value as the years pass",
+"A new house is always worth more, whatever its location",
+"There is no need to check the red book or legal title"
+],
+"141": [
+"Bolivia, Nepal, Algeria and Morocco",
+"The United States, UK, Japan and Germany",
+"France, Italy, Spain and Portugal, among others",
+"China, India, Brazil and Russia"
+],
+"142": [
+"Price covers everything; prices follow trends; history repeats itself",
+"Prices are random; information is private; markets are perfectly efficient",
+"Prices reflect profits only; dividends set prices; P/E is constant",
+"Exchange rates set prices; interest rates are fixed; the market is closed"
+],
+"144": [
+"Connecting closing prices; it is used to see long-term trends",
+"Connecting opening prices; it is mainly used for intraday trading",
+"Connecting the highest and lowest prices; it shows daily ranges",
+"Drawing volume bars; it is used only to show trading volume"
+],
+"145": [
+"TA is an art and only signals supply and demand pressure",
+"TA can predict future prices with absolute precision",
+"TA works best when the analyst demands black-and-white answers",
+"TA does not need any price or volume data to work"
+],
+"146": [
+"When to enter the market, take profit and cut losses",
+"The intrinsic value of a company based on its cash flows",
+"Which industry will grow faster than GDP in the future",
+"The weighted average cost of capital of a firm"
+],
+"147": [
+"RSI, Stochastic, ROC, Momentum",
+"MA, MACD, Bollinger Band, Envelopes",
+"Parabolic SAR, Envelopes, Bollinger Band",
+"Dow theory, Elliott wave, Gann angles"
+],
+"35": [
+"Benjamin Graham (Security Analysis)",
+"Philip Fisher (founded Fisher & Company)",
+"William O'Neil (creator of CANSLIM)",
+"Michael Porter (Five Forces model)"
+],
+"37": [
+"Valuation is subjective and never 100% certain; process matters most",
+"The more complex the model and the more variables, the more accurate the result",
+"Valuation results stay fixed and do not change over time",
+"Valuation is objective and does not depend on the appraiser"
+],
+"88": [
+"USD 1,000 less than expected",
+"USD 10,000 less than expected",
+"USD 1,500 less than expected",
+"USD 100 less than expected"
+],
+"123": [
+"S = X + C (strike plus premium)",
+"S = X − C (strike minus premium)",
+"S = X (the strike price)",
+"S = C (the premium only)"
+],
+"124": [
+"S = X − C (strike minus premium)",
+"S = X + C (strike plus the premium)",
+"S = X (the strike price)",
+"S = C (the premium only)"
+],
+"47": [
+"≈ 30,970–30,980 VND",
+"≈ 15,490 VND (the industry P/E itself)",
+"≈ 7,745 VND (EPS × P/E ÷ 4)",
+"≈ 129 VND (EPS ÷ P/E)"
+],
+"66": [
+"2 stages: 10 years, then year 11 to infinity",
+"3 stages of 5 years each, then a terminal value",
+"1 stage lasting 3 years, then liquidation",
+"5 stages of 2 years each, then a terminal value"
+],
+"77": [
+"1,750,000 VND; convert because it exceeds par",
+"1,500,000 VND; converting is beneficial since P = X",
+"1,250,000 VND; convert because the price is above 30,000",
+"1,750,000 VND; do not convert, since the bond is a loan"
+],
+"98": [
+"≈ $416.67",
+"≈ $600.00",
+"≈ $50.00",
+"≈ $6.00"
+]
+}
