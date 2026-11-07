@@ -1,0 +1,63 @@
+Xin chào các bạn. Đây là bài giảng ôn thi môn Đầu tư tài chính, tiếng Anh là Financial Investments.
+Bài thi cuối kỳ gồm bốn mươi câu trắc nghiệm, chiếm năm mươi phần trăm điểm. Vì vậy chúng ta sẽ học chậm, nhắc lại những chỗ quan trọng, và đọc rõ các từ khóa tiếng Anh.
+Hãy nhớ trước một điều. Chương một đến chương bốn là trọng tâm. Chương năm, phân tích kỹ thuật, chỉ cần nắm ý chính.
+Bốn chương chính là: chương một, Overview of Financial Investments, tổng quan đầu tư. Chương hai, Equities investment, đầu tư cổ phiếu. Chương ba, Bond investment, đầu tư trái phiếu. Chương bốn, Derivative and alternative investment, phái sinh và đầu tư thay thế.
+Chúng ta bắt đầu với chương một.
+Định nghĩa đầu tiên. Theo sách Bodie, Kane và Marcus: An investment is the current commitment of money or other resources in the expectation of reaping future benefits.
+Dịch là: đầu tư là sự cam kết nguồn tiền hiện tại, với kỳ vọng thu được lợi ích trong tương lai.
+Hãy nhớ ba chữ khóa: current commitment, nghĩa là cam kết hiện tại. Expectation, nghĩa là kỳ vọng. Future benefits, nghĩa là lợi ích tương lai.
+Theo Graham và Dodd, trong sách Security Analysis: An investment operation is one which, upon thorough analysis, promise safety of principal and a satisfactory return.
+Từ khóa: thorough analysis, phân tích kỹ lưỡng. Safety of principal, an toàn vốn gốc. Satisfactory return, lợi nhuận thỏa đáng.
+Mẹo nhớ: Graham là thầy của Buffett, ông nhấn mạnh an toàn. Cứ thấy chữ safety of principal thì nghĩ ngay đến Graham.
+Theo Malkiel năm hai nghìn không trăm lẻ bảy, đầu tư là mua tài sản để có thu nhập hợp lý có thể dự đoán, như cổ tức, lãi trái phiếu, tiền thuê, và hoặc giá trị tài sản tăng lên về sau.
+Câu nói nổi tiếng của Paul Samuelson: đầu tư giống như chờ sơn khô hay chờ cỏ mọc. Ý nghĩa là đầu tư cần kiên nhẫn.
+Tiếp theo, các loại hình đầu tư tài chính, Types of financial investment.
+Nhóm thứ nhất: Interest bearing instrument, công cụ sinh lãi. Gồm Money market instruments, công cụ thị trường tiền tệ, và Fixed-income securities, chứng khoán thu nhập cố định, tức là bond.
+Nhóm thứ hai: Equities, vốn cổ phần. Gồm common stock, cổ phiếu phổ thông, và preferred stock, cổ phiếu ưu đãi.
+Nhóm thứ ba: Derivatives and others. Gồm options, futures, private equity, hedge fund, ETF, vàng và ngoại hối, bất động sản, hàng hóa commodities, và tiền mã hóa cryptocurrency.
+Mẹo nhớ: ba nhóm là lãi, vốn, phái sinh. Interest, Equity, Derivative.
+Bây giờ là quy trình đầu tư, Investment process. Có tám bước. Hãy đọc chậm.
+Bước một, Determine investment objectives: profits and risks. Xác định mục tiêu đầu tư, lợi nhuận và rủi ro.
+Bước hai, Asset allocation. Phân bổ tài sản.
+Bước ba, Seeking about the law on investment. Tìm hiểu pháp luật về đầu tư.
+Bước bốn, Looking for investment opportunities. Tìm kiếm cơ hội.
+Bước năm, Analysis of investment opportunities. Phân tích cơ hội.
+Bước sáu, Market timing. Chọn thời điểm.
+Bước bảy, Disbursement. Giải ngân.
+Bước tám, Track investments and take profits or cut losses. Theo dõi, chốt lời hoặc cắt lỗ.
+Mẹo nhớ: Mục tiêu, Phân bổ, Pháp luật, Tìm, Phân tích, Thời điểm, Giải ngân, Theo dõi. Câu thần chú: Mẹ Phải Pha Trà, Phục vụ Thật Giỏi Tốt. Chữ cái đầu là M, P, P, T, P, T, G, T. Quan trọng nhất là thứ tự: phân bổ tài sản ở bước hai, giải ngân ở bước bảy.
+Vì sao cần đầu tư? Why we need investment? Để đạt Financial Freedom, tự do tài chính, và tận dụng Compound interest, lãi kép.
+Hầu hết tài sản của các tỷ phú thế giới nằm ở dạng cổ phiếu.
+Bây giờ là sáu sai lầm trong đầu tư theo CNBC. Đây là phần hay ra câu hỏi đúng sai.
+Sai lầm một: Realizing profits too early. Chốt lời quá sớm, vì nghĩ cổ phiếu tăng mạnh rồi không thể tăng nữa.
+Sai lầm hai: Fear to cut losses. Sợ cắt lỗ. Lời khuyên là đừng bao giờ kiên nhẫn với khoản lỗ. Thị trường luôn đúng.
+Sai lầm ba: Herd effect. Hiệu ứng bầy đàn, thấy nhiều người mua thì cho là cổ phiếu tốt. Đầu tư bầy đàn giống đánh bạc.
+Sai lầm bốn: Listen to celebrities. Nghe lời người nổi tiếng. Có thể tham khảo, nhưng nghe tuyệt đối là sai.
+Sai lầm năm: Poor in time management. Quản lý thời gian kém, lo nghĩ chuyện quá khứ.
+Sai lầm sáu: Forget your strengths. Quên thế mạnh, làm những thương vụ không chuyên.
+Mẹo nhớ sáu sai lầm: Sớm, Sợ, Bầy, Sao, Giờ, Sở trường. Hoặc nhớ: chốt sớm, sợ lỗ, bầy đàn, người nổi tiếng, thời gian, bỏ sở trường.
+Tiếp theo, các phương pháp phân tích, Investment method. Ba phương pháp.
+Fundamental analysis, phân tích cơ bản. Xử lý thông tin kinh tế và doanh nghiệp. Trả lời câu hỏi Why, tại sao, và cổ phiếu tốt hay xấu. Dùng cho chiến lược dài hạn, chọn công ty tốt.
+Technical analysis, phân tích kỹ thuật. Làm việc với giá và khối lượng. Trả lời câu hỏi How, như thế nào, cổ phiếu tăng hay giảm. Dùng cho chiến lược ngắn hạn.
+Quantitative analysis, phân tích định lượng. Dùng mô hình toán để dự đoán các yếu tố vĩ mô, doanh thu, lợi nhuận, giá cổ phiếu.
+Mẹo nhớ: Fundamental là Why, dài hạn. Technical là How, ngắn hạn. Cơ bản hỏi vì sao, kỹ thuật hỏi thế nào.
+Bây giờ là các chiến lược đầu tư, Investment strategies. Có chín chiến lược trong slide: Value investing, Growth investing, Quantitative, GARP, Income investing, CANSLIM, Dogs of the Dow, Technical analysis trading, và Portfolio investment.
+Value investing, đầu tư giá trị. Chọn cổ phiếu đang giao dịch thấp hơn intrinsic value hay book value. Nhà đầu tư giá trị dùng phân tích tài chính, không chạy theo đám đông, và đầu tư dài hạn. Người cha của value investing là Benjamin Graham.
+Growth investing, đầu tư tăng trưởng. Chọn công ty có lợi nhuận kỳ vọng tăng trưởng cao hơn mức trung bình của ngành hoặc thị trường. Năm câu hỏi: lịch sử tăng trưởng lợi nhuận mạnh, tiềm năng tăng trưởng tương lai, kiểm soát chi phí và doanh thu, cách quản lý điều hành, tài sản có thể gấp đôi trong năm năm không. Từ đó dẫn tới phương pháp CANSLIM.
+GARP, Growth at a Reasonable Price. Tăng trưởng với giá hợp lý. Kết hợp growth và value. Cổ phiếu tăng trưởng nhưng P/E tương đối thấp. Dùng chỉ số PEG, và chọn PEG nhỏ hơn một. Chú ý: slide viết nhầm là G R A P, đúng là G A R P.
+Dogs of the Dow. Chiến lược đánh bại chỉ số Dow Jones Industrial Average bằng cách chọn mười cổ phiếu blue-chip có tỷ suất cổ tức cao nhất trong ba mươi cổ phiếu của Dow Jones. Tái cân bằng vào đầu mỗi năm. Hãy nhớ ba con số: mười, ba mươi, và mỗi năm một lần.
+Bây giờ là CANSLIM, do William O'Neil sáng lập, của Investor's Business Daily. Đây là hệ thống chọn cổ phiếu tăng trưởng, kết hợp phân tích cơ bản và kỹ thuật. Rất hay ra thi. Mỗi chữ cái có một ý.
+C, Current quarterly earnings. Lợi nhuận mỗi cổ phiếu quý hiện tại tăng mạnh so với cùng kỳ năm trước. EPS tăng trên hai mươi phần trăm, ROE từ mười bảy phần trăm trở lên.
+A, Annual earnings growth. Tăng trưởng lợi nhuận hàng năm, trên hai mươi phần trăm trong ba đến năm năm.
+N, New. Sản phẩm mới, ban lãnh đạo mới, hoặc sự kiện mới đẩy giá lên đỉnh mới.
+S, Supply and demand. Cung cầu. Cung khan hiếm, cầu mạnh. Công ty mua lại cổ phiếu quỹ làm giảm cung.
+L, Leader or laggard. Dẫn đầu hay tụt hậu. Chọn cổ phiếu dẫn đầu ngành. Laggard là cổ phiếu kém hơn thị trường, là ứng viên đầu tiên bị bán.
+I, Institutional sponsorship. Sự bảo trợ của các tổ chức. Chọn cổ phiếu có vài tổ chức nắm giữ. Cẩn thận nếu bị tổ chức sở hữu quá nhiều.
+M, Market direction. Xu hướng thị trường, xem chỉ số trung bình hàng ngày.
+Mẹo nhớ CANSLIM: Current, Annual, New, Supply, Leader, Institution, Market. Hãy đọc to: C A N, S L I M. Hai chữ đầu C và A đều nói về earnings, một quý và một năm, đều trên hai mươi phần trăm.
+Ngoài ra học ba nhà đầu tư lớn.
+Benjamin Graham, father of value investing. Hai cuốn sách: Security Analysis và The Intelligent Investor. Nguyên tắc: chỉ mua khi giá thấp hơn intrinsic value.
+Philip Fisher. Tập trung chất lượng quản lý và đặc điểm kinh doanh. Ảnh hưởng đến Warren Buffett.
+Warren Buffett, Prophet of Omaha, chủ tịch Berkshire Hathaway. Bốn nguyên tắc: đánh giá ban lãnh đạo trung thực và có năng lực; công ty có triển vọng dài hạn thuận lợi; đầu tư cổ phiếu ổn định; mua với giá hợp lý.
+Câu nói nổi tiếng: The stock market is a device for transferring money from the impatient to the patient. Thị trường chứng khoán chuyển tiền từ người thiếu kiên nhẫn sang người kiên nhẫn.
+Hết chương một. Tóm tắt: định nghĩa, ba nhóm tài sản, tám bước, sáu sai lầm, ba phương pháp, và CANSLIM.

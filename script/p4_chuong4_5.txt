@@ -1,0 +1,64 @@
+Chương bốn: Derivative securities and other types of investment, chứng khoán phái sinh và các loại hình đầu tư khác.
+Chương này có hai phần. Phần một, Derivative securities, gồm Options, quyền chọn, và Futures, hợp đồng tương lai. Phần hai, Alternative investments, gồm Private equity, Hedge fund, REIT, ETF, bất động sản, vàng và ngoại hối, hàng hóa, và tiền mã hóa.
+Derivative là gì? A derivative is a financial security with a value that is reliant upon or derived from an underlying asset or group of assets. Chứng khoán phái sinh có giá trị phụ thuộc, hay phái sinh từ, tài sản cơ sở.
+Ba đặc điểm của derivative. Một, giá phụ thuộc vào underlying asset, tài sản cơ sở. Hai, không tự sinh ra, phải có tài sản cơ sở. Ba, được giao dịch độc lập với tài sản cơ sở.
+Mẹo nhớ: Phụ thuộc, Không tự sinh, Giao dịch độc lập. Chữ cái đầu: P, K, G.
+Options, quyền chọn. An option contract gives the buyer the right but not the obligation to buy or sell. Người mua có quyền, nhưng không có nghĩa vụ, mua hoặc bán một lượng tài sản cơ sở, tại một mức giá xác định trước gọi là strike price hay exercise price, vào ngày đáo hạn nếu là kiểu châu Âu, European, hoặc bất cứ lúc nào trước ngày đáo hạn nếu là kiểu Mỹ, American.
+Hai loại: call option, quyền chọn mua, và put option, quyền chọn bán. Sàn quyền chọn lớn nhất thế giới là Chicago Board Options Exchange, CBOE, thành lập tháng tư năm một nghìn chín trăm bảy mươi ba, là sàn tập trung đầu tiên.
+Mẹo nhớ: Call là gọi hàng về, mua. Put là đặt hàng xuống, bán. Kiểu châu Âu chỉ thực hiện đúng ngày đáo hạn. Kiểu Mỹ thực hiện bất kỳ lúc nào, nên linh hoạt hơn.
+Điều rất quan trọng: người mua option trả phí, gọi là premium. Người mua có quyền. Người bán nhận premium và có nghĩa vụ.
+Call option. Người mua call trả premium để có quyền mua. Người bán call nhận premium và có nghĩa vụ bán khi người mua thực hiện. Ví dụ slide: call mua một cổ phiếu IBM giá một trăm hai mươi, phí bốn đô.
+Công thức lãi lỗ của call. Gọi S là giá thị trường của tài sản cơ sở, X là strike price, C là premium.
+Người mua call, long call: nếu S nhỏ hơn hoặc bằng X, lãi lỗ bằng âm C. Nếu S lớn hơn X, lãi lỗ bằng S trừ, mở ngoặc, X cộng C, đóng ngoặc.
+Người bán call, short call: nếu S nhỏ hơn hoặc bằng X, lãi bằng C. Nếu S lớn hơn X, lãi lỗ bằng C trừ, mở ngoặc, S trừ X, đóng ngoặc.
+Hòa vốn của call bằng X cộng C. Lỗ tối đa của người mua là C. Lãi của người mua call là không giới hạn. Lãi tối đa của người bán call là C. Lỗ của người bán call là không giới hạn.
+Ví dụ: mua call XYZ, một nghìn cổ phiếu, strike bốn mươi nghìn, premium hai nghìn mỗi cổ phiếu. Trường hợp a, giá đáo hạn sáu mươi nghìn: lãi mỗi cổ phiếu bằng sáu mươi nghìn trừ bốn mươi hai nghìn, bằng mười tám nghìn. Tổng lãi mười tám triệu. Tỷ suất lợi nhuận bằng mười tám nghìn chia hai nghìn, bằng chín trăm phần trăm. Trường hợp b, giá ba mươi nghìn, nhỏ hơn strike nên không thực hiện, lỗ đúng bằng premium, hai triệu, tỷ suất âm một trăm phần trăm.
+Put option. Người mua put trả premium để có quyền bán. Người bán put nhận premium và có nghĩa vụ mua khi người mua thực hiện.
+Công thức lãi lỗ của put.
+Người mua put, long put: nếu S lớn hơn hoặc bằng X, lãi lỗ bằng âm C. Nếu S nhỏ hơn X, lãi lỗ bằng X trừ, mở ngoặc, S cộng C, đóng ngoặc.
+Người bán put, short put: nếu S lớn hơn hoặc bằng X, lãi bằng C. Nếu S nhỏ hơn X, lãi lỗ bằng C trừ, mở ngoặc, X trừ S, đóng ngoặc.
+Hòa vốn của put bằng X trừ C. Lỗ tối đa của người mua put là C. Lãi tối đa của người mua put bằng X trừ C, khi giá về không.
+Ví dụ: mua put XYZ, một nghìn cổ phiếu, strike bốn mươi nghìn, premium hai nghìn. Trường hợp a, giá sáu mươi nghìn lớn hơn strike, không thực hiện, lỗ hai triệu. Trường hợp b, giá ba mươi nghìn: lãi mỗi cổ phiếu bằng bốn mươi nghìn trừ ba mươi hai nghìn, bằng tám nghìn. Tổng lãi tám triệu, tỷ suất lợi nhuận bốn trăm phần trăm.
+Mẹo nhớ bốn vị thế. Long call kỳ vọng giá tăng. Short call kỳ vọng giá không tăng. Long put kỳ vọng giá giảm. Short put kỳ vọng giá không giảm. Người mua thì lỗ có giới hạn, bằng premium. Người bán thì lãi có giới hạn, bằng premium. Mua call lãi vô hạn. Bán call lỗ vô hạn. Tổng lãi lỗ của người mua và người bán luôn bằng không, đây là zero-sum game.
+Thị trường quyền chọn, Options market. Hình thành ở châu Âu và Mỹ từ đầu thế kỷ mười tám. Năm một nghìn chín trăm là thị trường OTC. Tháng tư năm một nghìn chín trăm bảy mươi ba, CBOE ra đời, là sàn tập trung đầu tiên. Ngày nay thị trường hoạt động hai mươi bốn trên hai mươi bốn.
+Hai cấu trúc thị trường. Over-the-counter options, OTC: người mua và người bán thương lượng trực tiếp các điều khoản, không cho phép bán lại option trước đáo hạn. Listed options, quyền chọn niêm yết: giao dịch trên sàn, chuẩn hóa strike price, ngày đáo hạn, thanh toán và bù trừ.
+Mẹo nhớ: OTC là Tùy chỉnh. Listed là Chuẩn hóa.
+Quy trình giao dịch option có chín bước. Hãy nhớ các nhân vật: Buyer, Seller, Broker, Broker's floor representative, Exchange, Clearing Member, và Options Clearing Corporation, viết tắt OCC.
+Bước một: người mua và người bán ra lệnh cho broker. Bước hai: broker yêu cầu đại diện sàn thực hiện. Bước ba: khớp giá tại sàn Exchange. Bước bốn: báo thông tin giao dịch cho OCC. Bước năm: đại diện sàn báo kết quả cho broker. Bước sáu: broker báo kết quả cho nhà đầu tư. Bước bảy: nhà đầu tư ký quỹ tại công ty chứng khoán. Bước tám: broker chuyển tiền ký quỹ cho Clearing Member. Bước chín: Clearing Member chuyển ký quỹ cho OCC.
+Mẹo nhớ: Lệnh, Sàn, Khớp, Báo OCC, rồi báo ngược xuống, rồi ký quỹ đi lên. Bốn bước đầu đi lên, bước năm và sáu đi xuống, bước bảy đến chín ký quỹ đi lên.
+Tiếp theo: Futures. Có ba nội dung: Forward contract, Futures contract, và Futures market.
+Forward contract, hợp đồng kỳ hạn. Là hợp đồng tùy chỉnh giữa hai bên để mua hoặc bán tài sản tại mức giá xác định vào một ngày trong tương lai. Không chuẩn hóa, nên phù hợp để phòng ngừa rủi ro, hedging. Giao dịch OTC.
+Futures contract, hợp đồng tương lai. Là thỏa thuận pháp lý mua hoặc bán hàng hóa hoặc chứng khoán tại mức giá định trước vào thời điểm xác định trong tương lai. Được chuẩn hóa về chất lượng và số lượng, giao dịch trên sàn. Người mua có nghĩa vụ mua. Người bán có nghĩa vụ giao.
+Điểm khác biệt then chốt. Option: người mua có quyền, không có nghĩa vụ. Futures: cả hai bên đều có nghĩa vụ. Option có premium. Futures không có premium, nhưng có ký quỹ, margin.
+Forward khác Futures: Forward là OTC, không chuẩn hóa, rủi ro đối tác cao. Futures là sàn tập trung, chuẩn hóa, có bù trừ hằng ngày.
+Năm thành phần của hợp đồng futures. Một, loại tài sản cơ sở. Hai, quy mô hợp đồng, ví dụ hợp đồng trái phiếu tại Mỹ là một trăm nghìn đô. Ba, ngày đáo hạn. Bốn, thủ tục giao hàng. Năm, giá futures, mức giá người mua trả khi giao hàng, thỏa thuận trước.
+Lịch sử thị trường futures. Bắt đầu với Chicago Board of Trade, CBOT, chuyên nông sản. Năm một nghìn tám trăm bảy mươi bốn có Chicago Mercantile Exchange, CME, là sàn lớn thứ hai thế giới sau EUREX, liên minh Đức và Thụy Sĩ. Một trăm hai mươi năm đầu chỉ giao dịch hàng hóa. Đến năm một nghìn chín trăm bảy mươi mốt mới có hợp đồng trên chứng khoán và tiền tệ.
+Các sàn lớn: Mỹ có CBOT và CME. Anh có LIFFE. Đức có EUREX. Úc có Sydney Futures Exchange. Trung Quốc có Shanghai Futures Exchange. Singapore có SICOM và SGX.
+Quy trình giao dịch futures cũng gồm chín bước tương tự như option, nhưng trung tâm bù trừ là Futures Clearing Center thay vì OCC.
+Daily clearing, thanh toán hằng ngày, hay marking to market. Muốn giao dịch futures phải mở Margin Account, tài khoản ký quỹ. Phải nộp Initial margin, ký quỹ ban đầu, theo quy định của sàn. Và phải duy trì Maintenance margin, ký quỹ duy trì tối thiểu. Hằng ngày trung tâm bù trừ đánh giá lại số dư theo biến động giá. Nếu số dư thấp hơn mức duy trì thì nhà đầu tư bị Margin call, phải nộp thêm tiền.
+Mẹo nhớ: Initial lớn hơn Maintenance. Lỗ làm số dư giảm. Dưới Maintenance thì Margin call.
+Ví dụ slide: quy mô hợp đồng một trăm ounce vàng, giá chín trăm năm mươi, ký quỹ ban đầu hai mươi phần trăm bằng mười chín nghìn đô, ký quỹ duy trì mười phần trăm bằng chín nghìn năm trăm đô. Giá tăng thì vị thế long có lãi, short có lỗ. Ngày bảy tháng tám, số dư short còn mười nghìn đô, gần mức duy trì. Ngày tám tháng tám giá lên một nghìn không trăm tám mươi, số dư short còn sáu nghìn, thấp hơn chín nghìn năm trăm, nên bị margin call, phải nộp thêm tiền. Theo slide, người bán nộp thêm ba nghìn năm trăm đô, và ngày hôm sau giá giảm nên người bán lãi một nghìn đô, số dư thành mười nghìn năm trăm đô. Quy tắc chung của margin call là phải nộp để đưa số dư về lại mức initial margin.
+Mẹo nhớ: long lãi khi giá tăng, short lãi khi giá giảm. Người này lãi bao nhiêu thì người kia lỗ bấy nhiêu.
+Thảo luận quan trọng cần nhớ. Forward khác Futures ở chuẩn hóa và nơi giao dịch. Option khác Futures ở quyền và nghĩa vụ.
+Phần hai: Alternative investments, các loại hình đầu tư khác.
+Investment fund, quỹ đầu tư. Là quỹ huy động vốn từ nhiều nhà đầu tư để đầu tư vào các loại tài sản xác định. Là trung gian tài chính phi ngân hàng, được quản lý chuyên nghiệp và giám sát bởi ngân hàng giám sát, custodian bank. Quỹ đầu tư là public fund, được chào bán chứng chỉ quỹ ra công chúng.
+Open-end fund, quỹ mở, và Closed-end fund, quỹ đóng. Hãy so sánh cho rõ.
+Quỹ mở: thời gian hoạt động không giới hạn. Quy mô không giới hạn, phụ thuộc nhà đầu tư mua bán. Thanh khoản cao, được mua bán chứng chỉ quỹ trực tiếp với công ty quản lý quỹ.
+Quỹ đóng: thời gian hoạt động giới hạn. Quy mô giới hạn, chỉ huy động vốn một lần. Không được bán lại cho công ty quản lý quỹ, nhưng giao dịch được trên thị trường chứng khoán.
+Mẹo nhớ: Mở thì Mua bán Mãi với công ty quỹ. Đóng thì Đổi tay trên sàn chứng khoán.
+Hedge fund, quỹ phòng hộ. Là quỹ quản lý chủ động, dùng nhiều chiến lược, thường vay mượn đòn bẩy và giao dịch tài sản phức tạp, để đánh bại lợi suất bình quân. Được coi là kênh đầu tư thay thế có rủi ro cao.
+Private equity fund, quỹ cổ phần tư nhân. Là vốn không niêm yết trên sàn công khai. Đầu tư trực tiếp vào các công ty tư nhân, hoặc mua lại công ty đại chúng khiến công ty bị hủy niêm yết, delisting. Vốn dùng để tài trợ công nghệ mới, mua lại sáp nhập, mở rộng vốn lưu động và củng cố bảng cân đối.
+Real estate investment, đầu tư bất động sản. Bốn bước. Một, xác định mục đích mua: để ở, kinh doanh, hay đầu tư. Hai, chọn loại hình phù hợp: căn hộ hay nhà phố. Ba, chọn thời điểm. Bốn, kiểm tra sổ đỏ, pháp lý. Lưu ý: giá trị ngôi nhà bị khấu hao, nhưng đất thì không. Một ngôi nhà mới đẹp ở vị trí xấu có thể giá thấp hơn nhà cũ ở vị trí tốt. Vị trí là yếu tố quyết định.
+Cryptocurrency, tiền mã hóa, như Bitcoin và Ethereum. Là tiền ảo nhưng ngày càng có nhiều tính năng của tiền điện tử, như chuyển đổi thành tiền, thanh toán, và lưu trữ giá trị ở mức thấp. Ngân hàng trung ương một số nước không chấp nhận, như Bolivia, Nepal, Algeria và Morocco.
+Tóm tắt chương bốn: derivative có ba đặc điểm; option là quyền, futures là nghĩa vụ; call mua, put bán; người mua lỗ tối đa bằng premium; hòa vốn call là X cộng C, put là X trừ C; futures cần margin, bị margin call khi dưới maintenance; quỹ mở thanh khoản cao, quỹ đóng giao dịch trên sàn.
+Chương năm: Technical analysis, phân tích kỹ thuật. Chỉ cần nắm ý chính.
+Technical analysis là nghệ thuật, không phải khoa học chính xác. Mục đích là nhận ra thói quen của thị trường để dự đoán xu hướng giá, nhưng không dự đoán chính xác giá tương lai. Nó chỉ cho thấy tương quan cung cầu.
+Cha đẻ của lý thuyết là Charles Dow, Dow theory, người sáng lập tờ Wall Street Journal.
+Ba giả định cơ bản. Một, Price covers every element of the market. Giá phản ánh mọi thông tin: công khai, nội bộ, tâm lý. Vì vậy phân tích cơ bản là không cần thiết. Hai, Price fluctuations follow trends. Giá di chuyển theo xu hướng. Ba, History repeats itself. Bản chất con người khó thay đổi nên thị trường lặp lại thói quen.
+Mẹo nhớ ba giả định: Giá phản ánh tất cả, Giá theo xu hướng, Lịch sử lặp lại.
+Mục đích của phân tích kỹ thuật: xác định ba thời điểm. Một, enter market, vào thị trường. Hai, take profit, chốt lời. Ba, stop loss, cắt lỗ.
+Ba loại biểu đồ cơ bản. Line chart, biểu đồ đường, nối các giá đóng cửa, dùng quan sát xu hướng dài hạn. Bar chart, biểu đồ thanh, phổ biến ở phương Tây. Candlestick chart, biểu đồ nến, xuất xứ Nhật Bản.
+Các công cụ truyền thống: Resistance và Support, kháng cự và hỗ trợ; Price patterns, mô hình giá; Candlestick patterns, mô hình nến.
+Hai nhóm chỉ báo. Trailing indicators, chỉ báo đi sau: MA, MACD, Bollinger Band. Momentum indicators, chỉ báo động lượng: RSI, Stochastic, ROC.
+Mẹo nhớ: Trailing là đi theo xu hướng, đến sau. Momentum là đo sức mạnh, đến trước.
+Đến đây bài giảng kết thúc. Để thi tốt, hãy làm câu hỏi trên trang ôn tập HTML, đặc biệt các câu tính toán: giá trái phiếu, YTM, duration, định giá cổ phiếu, và lãi lỗ của option. Chúc các bạn thi tốt.
